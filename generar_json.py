@@ -35,7 +35,7 @@ db_user = "root"
 db_password= "<23456"
 
 # Cambiar al directorio donde se encuentra consulta.sql
-os.chdir("/home/taller/offline-autoservice/libros_json")
+os.chdir("/home/taller/offline-autoservice/tlp_json")
 
 # Leer la consulta SQL desde el archivo
 with open("consulta.sql", "r") as file:

@@ -1,0 +1,1 @@
+*/1 * * * * /usr/bin/python3 /home/taller/offline-autoservice/tlp_json/generar_json.py >> /home/taller/offline-autoservice/tlp_json/error.log 2>&1
