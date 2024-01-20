@@ -57,20 +57,28 @@ cur.execute(consulta_sql)
 # Obtener los resultados
 rows = cur.fetchall()
 
-# Nombres de columnas (opcional, para un JSON mÃƒÂ¡s legible)
+# Nombres de columnas (opcional, para un JSON más legible)
 columnas = [desc[0] for desc in cur.description]
 resultados = [
-    {clave: (float(valor) if isinstance(valor, Decimal) else valor) for clave, valor in dict(zip(columnas, row)).items()}
+    {clave: (int(valor) if isinstance(valor, Decimal) else valor) for clave, valor in zip(columnas, row)}
     for row in rows
 ]
 
-# Convertir a JSON
-resultado_json = json.dumps(resultados)
+# Divide los resultados en dos partes
+mitad = len(resultados) // 2
+resultados_parte1 = resultados[:mitad]
+resultados_parte2 = resultados[mitad:]
 
-# Guardar en un archivo
-with open("resultados.json", "w") as f:
-    f.write(resultado_json)
+# Convertir a JSON y guardar la primera parte en un archivo
+resultado_json_parte1 = json.dumps(resultados_parte1, ensure_ascii=False, indent=4)
+with open("resultados_parte1.json", "w", encoding='utf-8') as f:
+    f.write(resultado_json_parte1)
 
-# Cerrar la conexiÃƒÂ³n
+# Convertir a JSON y guardar la segunda parte en un archivo
+resultado_json_parte2 = json.dumps(resultados_parte2, ensure_ascii=False, indent=4)
+with open("resultados_parte2.json", "w", encoding='utf-8') as f:
+    f.write(resultado_json_parte2)
+
+# Cerrar la conexión
 cur.close()
 conn.close()
