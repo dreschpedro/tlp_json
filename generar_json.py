@@ -57,6 +57,7 @@ cur.execute(consulta_sql)
 # Obtener los resultados
 rows = cur.fetchall()
 
+
 # Nombres de columnas (opcional, para un JSON más legible)
 columnas = [desc[0] for desc in cur.description]
 resultados = [
@@ -64,20 +65,26 @@ resultados = [
     for row in rows
 ]
 
-# Divide los resultados en dos partes
-mitad = len(resultados) // 2
-resultados_parte1 = resultados[:mitad]
-resultados_parte2 = resultados[mitad:]
+# Número de registros por archivo
+registros_por_archivo = 35000
 
-# Convertir a JSON y guardar la primera parte en un archivo
-resultado_json_parte1 = json.dumps(resultados_parte1, ensure_ascii=False, indent=4)
-with open("resultados_parte1.json", "w", encoding='utf-8') as f:
-    f.write(resultado_json_parte1)
+# Cálculo del número total de archivos necesario
+total_registros = len(resultados)
+cantidad_archivos = total_registros // registros_por_archivo + (1 if total_registros % registros_por_archivo else 0)
 
-# Convertir a JSON y guardar la segunda parte en un archivo
-resultado_json_parte2 = json.dumps(resultados_parte2, ensure_ascii=False, indent=4)
-with open("resultados_parte2.json", "w", encoding='utf-8') as f:
-    f.write(resultado_json_parte2)
+# Función para dividir la lista de resultados en varias partes
+def dividir_resultados(lista, n):
+    for i in range(0, len(lista), n):
+        yield lista[i:i + n]
+
+# Divide los resultados en la cantidad necesaria de partes
+partes = list(dividir_resultados(resultados, registros_por_archivo))
+
+# Convertir a JSON y guardar cada parte en un archivo separado
+for i, parte in enumerate(partes, 1):
+    resultado_json = json.dumps(parte, ensure_ascii=False, indent=4)
+    with open(f"resultados_parte{i}.json", "w", encoding='utf-8') as f:
+        f.write(resultado_json)
 
 # Cerrar la conexión
 cur.close()
