@@ -66,7 +66,7 @@ resultados = [
 ]
 
 # Número de registros por archivo
-registros_por_archivo = 35000
+registros_por_archivo = 40000
 
 # Cálculo del número total de archivos necesario
 total_registros = len(resultados)
