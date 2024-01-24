@@ -1,0 +1,7 @@
+{"titulo": "Poder y Escritura", "autor": "Nora Esperanza Bouvet", "stock": 1, "precio": 9800}
+
+{"titulo": "MAQUINAS BESTIALES . PEQUE/OS Y GRANDES CUADERNO DE ADHESIVOS", "autor": "Julian Baker", "stock": 6, "precio": 11450}
+
+{"titulo": "SER YO", "autor": "RUPERT SPIRA", "stock": 3, "precio": 19900}
+
+{"titulo": "PACK EXTRA. (5 PECES)", "autor": null, "stock": 1, "precio": 8100}
