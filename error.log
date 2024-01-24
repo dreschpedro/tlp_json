@@ -1,0 +1,396 @@
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 45, in <module>
+    conn = psycopg2.connect(
+  File "/home/taller/.local/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "172.18.0.2", port 5432 failed: No route to host
+	Is the server running on that host and accepting TCP/IP connections?
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 55, in <module>
+    cur.execute(consulta_sql)
+psycopg2.errors.DiskFull: no se pudo redimensionar el segmento de memoria compartida «/PostgreSQL.801247654» a 8388608 bytes: No queda espacio en el dispositivo
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 55, in <module>
+    cur.execute(consulta_sql)
+psycopg2.errors.DiskFull: no se pudo redimensionar el segmento de memoria compartida «/PostgreSQL.504200429» a 8388608 bytes: No queda espacio en el dispositivo
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 55, in <module>
+    cur.execute(consulta_sql)
+psycopg2.errors.DiskFull: no se pudo redimensionar el segmento de memoria compartida «/PostgreSQL.883163977» a 8388608 bytes: No queda espacio en el dispositivo
+
+Traceback (most recent call last):
+  File "/home/taller/offline-autoservice/tlp_json/generar_json.py", line 55, in <module>
+    cur.execute(consulta_sql)
+psycopg2.errors.DiskFull: no se pudo redimensionar el segmento de memoria compartida «/PostgreSQL.1978384379» a 8388608 bytes: No queda espacio en el dispositivo
+
